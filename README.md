@@ -3,7 +3,7 @@
 A fun and interactive Rock-Paper-Scissors game built with **HTML**, **CSS**, and **JavaScript**. Challenge the computer in 3 difficulty levels, track your win rate, upload your avatar, and enjoy a playground-style interface 🎮.
 
 ### 🌐 Live Demo
-🔗 [Click here to play the game](https://your-username.github.io/rock-paper-scissors/)
+🔗 [Click here to play the game](https://uday-99.github.io/Rock-Paper-Scissors-Game)
 
 > _Note: Replace the above link with your actual GitHub Pages link once it’s available._
 
@@ -26,6 +26,6 @@ A fun and interactive Rock-Paper-Scissors game built with **HTML**, **CSS**, and
 To run locally:
 
 ```bash
-git clone https://github.com/your-username/rock-paper-scissors.git
-cd rock-paper-scissors
+git clone https://uday-99.github.io/Rock-Paper-Scissors-Game.git 
+cd Rock-Paper-Scissors-Game
 open index.html
